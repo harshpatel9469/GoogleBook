@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937700276238",
+    "project_id": "esparkbook",
+    "storage_bucket": "esparkbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937700276238:android:1779f235c977a4e69de45f",
+        "android_client_info": {
+          "package_name": "com.esparkbooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASR31Qxfy4QGWdc4uMLM2tlm4a3XNsAEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
